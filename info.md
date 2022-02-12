@@ -3,3 +3,9 @@
 Создание репозиторий:
 
 >git init
+
+Если работаем с репозитрием в первый раз, нужно задать имя и почту пользователя:
+
+> git config --global user.name ...
+
+> git config --global user.email ...
