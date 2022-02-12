@@ -9,3 +9,15 @@
 > git config --global user.name ...
 
 > git config --global user.email ...
+
+# Основные команды
+
+## Добавление изменений
+
+Для того чтобы добавить файл, нужно:
+
+> git add file_name
+
+И чтобы зафиксировать эти добавленные файйлы, нужно:
+
+> git commit -m "message"
