@@ -48,3 +48,5 @@
 Чтобы вернуться к прежнему состоянию:
 
 > git checkout master
+
+![Good job](Gif.gif)
